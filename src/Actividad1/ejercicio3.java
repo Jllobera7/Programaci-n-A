@@ -1,5 +1,6 @@
 package Actividad1;
 // función que dice un numero si es par o no
+
 public class ejercicio3 {
     static void esPar(int n){
         if (n % 2 == 0){

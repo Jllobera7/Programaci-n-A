@@ -1,5 +1,6 @@
 package Actividad1;
 //convertir grados centigrados a farenheit
+
 public class ejercicio2 {
 static void gradosAfarenheit(float c){
     float f=c*(9/5)+32;

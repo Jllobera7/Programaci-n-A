@@ -7,6 +7,7 @@ static void gradosAfarenheit(float c){
     System.out.println(f);
 }
     public static void main(String[] args) {
-        gradosAfarenheit(26);
+
+    gradosAfarenheit(26);
     }
 }
